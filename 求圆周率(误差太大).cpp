@@ -21,17 +21,3 @@ int main(void)
 	
 	
 }
-
-
-
-
-
-
-/*int main(void)
-{
-	float x;	
-	x = 355.0 / 113.0;
-printf("%f",x);
-return 0;
-}
-*/
